@@ -1,0 +1,2 @@
+This is a fun assignment from the Odin Project! 
+Actually, it is my very first one!
